@@ -18,8 +18,7 @@ Recovery needs accessible records, not permission from the original hosting prov
 ### Journalism and freedom of the press
 
 URMA Capture preserves journalistic originals and their context through encrypted publication and recovery.
-Private files stay encrypted; recovery requires the separately preserved recovery secret.
-The tooling provides a foundation for applications, not a finished camera product.
+Private files stay encrypted and are recovered with the owner's recovery secret.
 
 The same protocol also supports encrypted archives, public text and identities through Wire, and Web packages with Names-based resolution.
 
@@ -27,10 +26,6 @@ The same protocol also supports encrypted archives, public text and identities t
 
 The [Rust workspace and CLI](https://github.com/urma-protocol/urma) provide reusable libraries for records, proofs, identities, publication and recovery.
 Start with the [command-line guide](https://github.com/urma-protocol/urma/tree/master/urma-cli#readme), explore the [published Rust packages](https://crates.io/search?q=urma), or browse the source.
-
-URMA is V0 and under active development.
-Recovery depends on completed publication and accessible records; independent copies resist centralized deletion, but perpetual availability is not guaranteed.
-Published packages are not a claim of complete protocol conformance or an external security audit.
 
 [Website](https://urma.rosint.org) · [Source](https://github.com/urma-protocol/urma) · [Issues](https://github.com/urma-protocol/urma/issues) · [Contact](mailto:urma@rosint.org)
 
